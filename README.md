@@ -23,7 +23,7 @@ By using AI to understand the preference of the users and generate a list of dis
 
 It probably is a solution for everyone, especially someone with limited time to consider and cooking their own meal. Users can use the suggestion as ease or change it to suit their preference even more, and if cooking is a problem, ordering the suggestion food is also a pretty good idea. Users must take into account that AI is not perfect and the suggestion may not be perfectly balance in nutrients or suit your preference.
 
-![imgofdiet](https://images.app.goo.gl/Luwo82dcLxkABTFt8)
+![imgofdiet](https://thumb.ac-illust.com/36/36d2ea68ee108364521cca94426b9ee3_w.jpeg)
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
