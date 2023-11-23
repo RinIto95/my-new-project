@@ -23,9 +23,9 @@ By using AI to understand the preference of the users and generate a list of dis
 
 It probably is a solution for everyone, especially someone with limited time to consider and cooking their own meal. Users can use the suggestion as ease or change it to suit their preference even more, and if cooking is a problem, ordering the suggestion food is also a pretty good idea. Users must take into account that AI is not perfect and the suggestion may not be perfectly balance in nutrients or suit your preference.
 
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![imgofdiet](https://images.app.goo.gl/Luwo82dcLxkABTFt8)
 
-If you need to resize images, you have to use an HTML tag, like this:
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
 This is how you create code examples:
